@@ -1,2 +1,2 @@
-# precursohenry
-esto es un repositorio de pruba del modulo 2 precurso soy henry
+gregorio
+esto es una prube para ver si funciona git hut
